@@ -15,7 +15,7 @@ I'm currently in the 2nd year of my CS degree and on track to graduate at the en
 
 Seeking an internship for Summer 2023.
 
-### [**📄 View My Resume**](resume.pdf)
+### [**📄 View My Resume**](https://tdkorn.github.io/resume/)
 <br>
 
 ## Where to Reach Me
