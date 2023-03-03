@@ -13,9 +13,14 @@ I began to teach myself Python shortly after completing my B.Sc in Biomedical Sc
 I fell in love immediately and returned to school as soon as I could for another degree, this time in Computer Science.
 I'm currently in the 2nd year of my CS degree and on track to graduate at the end of 2024.
 
-Seeking an internship for Summer 2023.
+<br>
 
-### [**📄 View My Resume**](https://tdkorn.github.io/resume/)
+## Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdkorn&repo=my-magento)](https://github.com/tdkorn/my-magento)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdkorn&repo=insta-tweet)](https://github.com/tdkorn/insta-tweet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tdkorn&repo=sphinx-github-style)](https://github.com/tdkorn/sphinx-github-style)
+
 <br>
 
 ## Where to Reach Me
